@@ -1,7 +1,7 @@
 # phone
-![Phone](./img/main.jpg)
+[![Phone](./img/main.jpg)](https://raw.githubusercontent.com/thatoddmailbox/phone/master/img/main.jpg)
 
-![The SMS app](./img/sms.jpg)
+[![The SMS app](./img/sms.jpg)](https://raw.githubusercontent.com/thatoddmailbox/phone/master/img/sms.jpg)
 
 A custom-built (and functioning) cell phone, which I designed and built for my end-of-year project in my senior year of high school. It can make calls, receive texts, connect to the Internet, get your location, and do most things you'd expect a phone to be capable of.
 
@@ -13,8 +13,8 @@ You can see the different parts of the phone labeled below. The source code/file
 
 ## Detailed photos
 ### Inside
-![Inside of phone, with labels describing different parts](./img/inside_labeled.jpg)
+[![Inside of phone, with labels describing different parts](./img/inside_labeled.jpg)](https://raw.githubusercontent.com/thatoddmailbox/phone/master/img/inside_labeled.jpg)
 
 ### Outside
-![Outside](./img/outside.jpg)
+[![Outside](./img/outside.jpg)](https://raw.githubusercontent.com/thatoddmailbox/phone/master/img/outside.jpg)
 (from left to right: antenna, input wheel, micro-SD card slot)
