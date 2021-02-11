@@ -3,7 +3,7 @@
 
 [![The SMS app](./img/sms.jpg)](https://raw.githubusercontent.com/thatoddmailbox/phone/master/img/sms.jpg)
 
-A custom-built (and functioning) cell phone, which I designed and built for my end-of-year project in my senior year of high school. It can make calls, receive texts, connect to the Internet, get your location, and do most things you'd expect a phone to be capable of.
+A 2G GSM cell phone which I designed and built for my end-of-year project in my senior year of high school. It can make calls, receive texts, connect to the Internet, get your location, and do most things you'd expect a phone to be capable of.
 
 You can see the different parts of the phone labeled below. The source code/files are split up over several different repositories:
 * [phone-fw](https://github.com/thatoddmailbox/phone-fw) - the firmware running on the phone, written in C.
